@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>FKISIT</title>
+</head>
+<body>
+
+  <header>
+    <h1>Laboratorna 1</h1>
+  </header>
+
+  <main>
+    <p>Vporiadkovanyi spysok:</p>
+    <ol>
+      <li><b>Pershyi punkt</b></li>
+      <li><i>Druhyi punkt</i></li>
+      <li><u>Tretij punkt</u></li>
+      <li><a href="https://www.google.com" target="_blank">Chetvertyi punkt</a></li>
+      <li style="color: red;">Piatyi punkt</li>
+    </ol>
+
+    <p>Nevporiadkovanyi spysok:</p>
+    <ul>
+      <li>Element A</li>
+      <li>Element B</li>
+      <li>Element C</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>Єгор Прізвище</p>
+  </footer>
+
+</body>
+</html>
